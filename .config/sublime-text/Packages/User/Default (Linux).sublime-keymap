@@ -1,0 +1,13 @@
+[
+	{ "keys": ["ctrl+shift+c"], "command": "toggle_comment", "args": { "block": true } },	
+	{ "keys": ["ctrl+alt+i", "ctrl+]"], "command": "reindent", "args": {"single_line": false} },
+	{ "keys": ["ctrl+shift+up"], "command": "select_lines", "args": {"forward": false} },
+	{ "keys": ["ctrl+shift+down"], "command": "select_lines", "args": {"forward": true} },
+	{ "keys": ["alt+up"], "command": "swap_line_up" },
+	{ "keys": ["alt+down"], "command": "swap_line_down" },
+	{ "keys": ["ctrl+shift+l"], "command": "find_all_under", "args": { "word": true } },
+]
+
+
+
+

@@ -1,0 +1,14 @@
+{
+	"theme": "Adaptive.sublime-theme",
+	"auto_save": true,
+	"save_on_focus_lost": true,
+	"auto_save_delay": "1000ms",
+	"gtk_client_side_window_decorations": false,
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"index_files": true,
+    "themed_title_bar": false,
+    "show_full_path": false,
+}

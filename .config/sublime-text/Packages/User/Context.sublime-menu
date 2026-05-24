@@ -1,0 +1,21 @@
+[
+    {
+        "caption": "Dividir selección en líneas",
+        "command": "split_selection_into_lines"
+    },
+    {
+        "caption": "Reindentar selección",
+        "command": "reindent"
+    },
+    { "caption": "-" },
+    {
+        "caption": "Comentar bloque",
+        "command": "toggle_comment",
+        "args": { "block": true }
+    },
+    { "caption": "-" },
+    {
+        "caption": "Mostrar/Ocultar Barra Lateral",
+        "command": "toggle_side_bar"
+    }
+]

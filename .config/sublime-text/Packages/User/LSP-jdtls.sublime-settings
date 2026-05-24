@@ -1,0 +1,6 @@
+// Settings in here override those in "LSP-jdtls/LSP-jdtls.sublime-settings"
+{
+    "settings": {
+        "java.jdt.ls.java.home": "/opt/graalvm-jdk-21.0.10+8.1"
+    }
+}

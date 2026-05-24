@@ -1,0 +1,16 @@
+{
+	"bootstrapped": true,
+	"installed_packages":
+	[
+		"Babel",
+		"LSP",
+		"LSP-jdtls",
+		"LSP-typescript",
+		"Package Control",
+		"React + Js Snippets",
+		"SublimeLinter Inline Errors",
+	],
+	"in_process_packages":
+	[
+	],
+}
